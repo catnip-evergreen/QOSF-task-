@@ -1,2 +1,2 @@
 # Qiskit Code
-Code for task 3 for the qosf mentorship program 
+Code for task 2 for the qosf mentorship program 
